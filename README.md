@@ -2,9 +2,11 @@
   <div align="center">
     Привет
     <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" />
-    <div align="center">
-      Меня зовут Никита! Рад познакомиться с тобой!
-    </div>
+  </div>
+</h1>
+<h1>
+  <div align="center">
+    Меня зовут Никита! Рад познакомиться с тобой!
   </div>
 </h1>
 
