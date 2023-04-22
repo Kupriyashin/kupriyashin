@@ -13,7 +13,8 @@
 * ✉️  Вы можете со мной связаться по почте: [Kupriyashin.nick@yandex.ru](mailto:Kupriyashin.nick@yandex.ru)
 
 <details>
-<summary>### Мои проекты</summary>
+<summary> ### Мои проекты </summary>
+
 | Название проекта | Описание проекта |
 |-----:|---------------|
 |     1|               |
