@@ -52,7 +52,7 @@
   
   |<div align="left">Название проекта</div>|<div align="left">Описание проекта</div>|
   | ------------- | ------------- |
-  |<div align="left">[Лабораторная работа по теме: "ИССЛЕДОВАНИЕ ВИДИМОЙ ЧАСТИ ИЗЛУЧЕНИЯ АТОМА ВОДОРОДА И ОПРЕДЕЛЕНИЕ ПОСТОЯННОЙ РИДБЕРГА"](https://github.com/Kupriyashin/DEFINITION-OF-THE-RYDBERG-CONSTANT.git)</div>||
+  |<div align="left">[Лабораторная работа по теме: "ИССЛЕДОВАНИЕ ВИДИМОЙ ЧАСТИ ИЗЛУЧЕНИЯ АТОМА ВОДОРОДА И ОПРЕДЕЛЕНИЕ ПОСТОЯННОЙ РИДБЕРГА"](https://github.com/Kupriyashin/DEFINITION-OF-THE-RYDBERG-CONSTANT.git)</div>|Суть лабораторной работы сводится к нахождению постоянной Ридберга для спектра излучения атомарного водорода. Для упрощения расчетов используется Python и библиотеки Numpy, Loguru|
   | Content Cell  | Content Cell  |
   
 </div>
