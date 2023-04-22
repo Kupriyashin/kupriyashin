@@ -27,4 +27,6 @@
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Kupriyashin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://vk.com/kupriyashinnick" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303449/vk-1-logo.svg" width="32" height="32" /></a></p></a> <a href="Kupriyashin.nick@yandex.ru" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Yandex_Mail_icon.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/Kupriyashin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+<a href="https://vk.com/kupriyashinnick" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303449/vk-1-logo.svg" width="32" height="32" /></a>
+<a href="https://t.me/Kupriyashin_nick" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452115/telegram.svg" width="32" height="32" /></a>
