@@ -12,8 +12,10 @@
 * 🌍  Я нахожусь в России, Москва
 * ✉️  Вы можете со мной связаться по почте: [Kupriyashin.nick@yandex.ru](mailto:Kupriyashin.nick@yandex.ru)
 
+Мои проекта
+----------------------
 <details>
-<summary> ### Мои проекты </summary>
+<summary> Мои проекты </summary>
 
 | Название проекта | Описание проекта |
 |-----:|---------------|
@@ -23,7 +25,8 @@
 
 </details>
 
-
+Обо мне
+----------------------
 ### Языки программирования
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
