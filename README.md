@@ -67,8 +67,17 @@
 </h2>
 
 <div align="center">
+  <h3>Фреймворки</h3>
+  <a href="https://dev.vk.com/reference" target="_blank" rel="noreferrer"><img src="https://www.pinclipart.com/picdir/big/544-5446048_vk-logo-design-logo-media-sosial-png-clipart.png" width="36" height="36" alt="Vk API" /></a>
+  <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"><img src="https://www.opc-router.de/wp-content/uploads/2018/03/icon_sqlite_Database_128.png" width="36" height="36" alt="SQLite" /></a>
+  <a href="https://tinkoff.github.io/investAPI" target="_blank" rel="noreferrer"><img src="https://sun6-23.userapi.com/s/v1/if1/7HUOzOKemCHIIZjrV6p3dUUo5l4MD6lMAFP6dY0_5pwAHLae-5eDw7ygeuLTKKnjGj_Wx15i.jpg?size=825x825&quality=96&crop=87,0,825,825&ava=1" width="36" height="36" alt="TinkoffAPI" /></a>
+  <a href="https://vkbottle.readthedocs.io/ru/latest/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/vkbottle/vkbottle/master/docs/logo.svg" width="36" height="36" alt="Appwrite" /></a>
+  <a href="https://python-scripts.com/pyqt5" target="_blank" rel="noreferrer"><img src="https://sun6-22.userapi.com/s/v1/if1/IH8QIS_-bk5r_bzxxrg_Ykf-N72ocqzkCPLGQbO629JVWMyP2XuY7i5wSwN0oX4iPG2tzpI_.jpg?size=2000x2085&quality=96&crop=0,0,2000,2085&ava=1" width="36" height="36" alt="VkBottle" /></a>
+  <a href="https://github.com/pytube/pytube" target="_blank" rel="noreferrer"><img src="https://img2.freepng.ru/20180406/xbq/kisspng-computer-icons-logo-quora-youtube-5ac7ba22b41ce8.2657721715230387547378.jpg" width="36" height="36" alt="pytube" /></a>
+</div>
+<div align="center">
   <h3> Языки программирования</h3>
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://www.pngkit.com/png/full/115-1152656_c-plus-plus-icon-c-c-white-icon.png" width="36" height="36" alt="C++" /></a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
   <a href="https://appwrite.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/appwrite-colored.svg" width="36" height="36" alt="Appwrite" /></a>
