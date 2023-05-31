@@ -60,6 +60,21 @@
 </div>
   
 </div>
+
+<h2>
+  <div align="center">
+    Микропроекты
+  </div>
+</h2>
+
+<div align="center">
+  
+  |<div align="left">Наименование</div>|<div align="left">Описание</div>|
+  | ------------- | ------------- |
+  |<div align="left">[Замена текста на 3 точки, если он больше размеров QLabel](https://github.com/Kupriyashin/Replacing-the-text-with-3-dots-if-it-is-larger-than-the-size-of-the-QLabel.git)</div>|Небольшой скриптик, демнострирующий удаление невмещающихся символов в QLabel, заменяя их на точки.|
+  
+</div>
+
 <h2>
   <div align="center">
     Навыки и социальные сети
