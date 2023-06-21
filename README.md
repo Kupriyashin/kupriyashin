@@ -73,6 +73,7 @@
   |<div align="left">Наименование</div>|<div align="left">Описание</div>|
   | ------------- | ------------- |
   |<div align="left">[Замена текста на 3 точки, если он больше размеров QLabel](https://github.com/Kupriyashin/Replacing-the-text-with-3-dots-if-it-is-larger-than-the-size-of-the-QLabel.git)</div>|Небольшой скриптик, демнострирующий удаление невмещающихся символов в QLabel, заменяя их на точки.|
+  |<div align="left">[Замена текста на 3 точки, если он больше размеров QLabel V2](https://github.com/Kupriyashin/Replacing-the-last-characters-with-3-characters-when-filling-Label-PyQt5.git)</div>|Более соврешенная версия скрипта по обрезанию текста, в случае если его символьная ширина больше чем QLabel. Скрипт использует для получения размера символа **QFontMetrics** и его метод **elidedText**|
   
 </div>
 
